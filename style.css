@@ -1,2 +1,51 @@
-/*create your custom styling here*/
 
+#header{
+	background-color: green;
+	height: 100px;
+	max-width: 860px;
+	margin: 5px;
+	padding: 10px;
+	
+}
+
+.sidebar{
+	background-color: blue;
+	margin: 5px;
+	float: left;
+	width: 150px;
+	height: 400px;
+	padding: 10px;
+}
+
+.small-box{
+	background-color: yellow;
+	border-radius: 10px;
+	height: 100px;
+	margin: 15px;
+}
+.long-box {
+	background-color: yellow;
+	border-radius: 10px;
+	height: 300px;
+	margin: 10px;
+}
+
+
+#main-story {
+	background-color: brown;
+	float: left;
+	width: 500px;
+	height: 400px;
+	margin: 5px;
+	padding: 10px;
+}
+
+#footer {
+	background-color: salmon;
+	height: 100px;
+	max-width: 860px;
+	margin-top: 5px;
+	margin: 5px;
+	padding: 10px;
+	clear: left;
+}
